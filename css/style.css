@@ -1476,6 +1476,12 @@ main {
   }
 }
 
+.tf__banner_2 > .container {
+  width: 100%;
+  max-width: 100%;
+  padding: 0 15px; /* ensures some spacing on mobile */
+}
+
 .tf__banner_2 div {
   height: 100%;
 }
